@@ -1,0 +1,3 @@
+C:/Users/15590/Desktop/Operation of large integers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/15590/Desktop/Operation of large integers/cmake-build-debug/CMakeFiles/Operation_of_large_integers.dir
+C:/Users/15590/Desktop/Operation of large integers/cmake-build-debug/CMakeFiles/rebuild_cache.dir

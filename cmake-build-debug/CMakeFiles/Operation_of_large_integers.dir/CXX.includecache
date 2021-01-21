@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/15590/Desktop/Operation of large integers/BigInteger.cpp
+BigInteger.h
+C:/Users/15590/Desktop/Operation of large integers/BigInteger.h
+
+C:/Users/15590/Desktop/Operation of large integers/BigInteger.h
+iostream
+-
+string
+-
+fstream
+-
+LinkList.h
+C:/Users/15590/Desktop/Operation of large integers/LinkList.h
+Node.h
+C:/Users/15590/Desktop/Operation of large integers/Node.h
+
+C:/Users/15590/Desktop/Operation of large integers/LinkList.h
+iostream
+-
+Node.h
+C:/Users/15590/Desktop/Operation of large integers/Node.h
+
+C:/Users/15590/Desktop/Operation of large integers/Node.h
+iostream
+-
+
